@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=PT+Sans&family=Pacifico&display=swap');
+
+main {
+    background-color: #F2F2F2;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+}
+
+
+.title-container {
+    height: 300px;
+}
+
+.sidebar {
+    background-color: white;
+}
+
+.card-text, span {
+    font-family: 'Oswald', sans-serif;
+}
+
+.list-group {
+    border: none;
+}
+
+li {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}
